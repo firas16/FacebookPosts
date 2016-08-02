@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Goldy2ModelStoreContainer" CdmEntityContainer="Goldy2Entities">
+    <EntitySetMapping Name="zEnumSources">
+      <EntityTypeMapping TypeName="Goldy2Model.zEnumSources">
+        <MappingFragment StoreEntitySet="zEnumSources">
+          <ScalarProperty Name="RowVersion" ColumnName="RowVersion" />
+          <ScalarProperty Name="cutoff" ColumnName="cutoff" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cours">
+      <EntityTypeMapping TypeName="Goldy2Model.Cours">
+        <MappingFragment StoreEntitySet="Cours">
+          <ScalarProperty Name="timestamp" ColumnName="timestamp" />
+          <ScalarProperty Name="RowVersion" ColumnName="RowVersion" />
+          <ScalarProperty Name="valeur" ColumnName="valeur" />
+          <ScalarProperty Name="source" ColumnName="source" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,245 @@
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\CoursUpdate.dll.config
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\CoursUpdate.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\CoursUpdate.pdb
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\EntityFramework.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\System.Spatial.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Diagnostics.StorageUtility.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\EntityFramework.xml
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\System.Spatial.xml
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\obj\Debug\WorkerRole1.csprojResolveAssemblyReference.cache
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\obj\Debug\CoursUpdate.dll
+C:\Users\François\SkyDrive\VS2013\Projects\CoursUpdate\WorkerRole1\obj\Debug\CoursUpdate.pdb
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\CoursUpdate.exe.config
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\CoursUpdate.exe
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\CoursUpdate.pdb
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\EntityFramework.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.CSharp.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\System.Data.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\System.Data.Services.Client.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\System.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\System.Security.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\System.Spatial.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\System.Xml.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\System.Xml.Linq.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\MonAgentListener.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\EntityFramework.xml
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\System.Spatial.xml
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\obj\Debug\CoursUpdate.exe
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\obj\Debug\CoursUpdate.pdb
+C:\Users\firas\Desktop\CoursUpdate\WorkerRole1\obj\Debug\WorkerRole1.csprojResolveAssemblyReference.cache
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\CoursUpdate.exe.config
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\CoursUpdate.exe
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\CoursUpdate.pdb
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\EntityFramework.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\System.Data.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\System.Data.Services.Client.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\System.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\System.Security.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\System.Spatial.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\System.Xml.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\System.Xml.Linq.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\EntityFramework.xml
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\System.Spatial.xml
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\obj\Debug\WorkerRole1.csprojResolveAssemblyReference.cache
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\obj\Debug\CoursUpdate.exe
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\obj\Debug\CoursUpdate.pdb
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Spare\Documents\CoursUpdate\WorkerRole1\bin\Debug\MonAgentListener.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\CoursUpdate.exe.config
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\obj\Debug\CoursUpdate.exe
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\obj\Debug\CoursUpdate.pdb
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\CoursUpdate.exe
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\CoursUpdate.pdb
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\EntityFramework.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\System.Data.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\System.Data.Services.Client.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\System.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\System.Security.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\System.Spatial.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\System.Xml.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\System.Xml.Linq.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\MonAgentListener.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\EntityFramework.xml
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\System.Spatial.xml
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Spare\Documents\Visual Studio 2013\Projects\CoursUpdate\WorkerRole1\obj\Debug\WorkerRole1.csprojResolveAssemblyReference.cache
+E:\certification adm\service\Service-Cours-master\bin\Debug\CoursUpdate.exe.config
+E:\certification adm\service\Service-Cours-master\bin\Debug\CoursUpdate.exe
+E:\certification adm\service\Service-Cours-master\bin\Debug\CoursUpdate.pdb
+E:\certification adm\service\Service-Cours-master\bin\Debug\Microsoft.CSharp.dll
+E:\certification adm\service\Service-Cours-master\bin\Debug\System.ComponentModel.DataAnnotations.dll
+E:\certification adm\service\Service-Cours-master\bin\Debug\System.Data.DataSetExtensions.dll
+E:\certification adm\service\Service-Cours-master\bin\Debug\System.Data.dll
+E:\certification adm\service\Service-Cours-master\bin\Debug\System.Data.Services.Client.dll
+E:\certification adm\service\Service-Cours-master\bin\Debug\System.dll
+E:\certification adm\service\Service-Cours-master\bin\Debug\System.Runtime.Serialization.dll
+E:\certification adm\service\Service-Cours-master\bin\Debug\System.Security.dll
+E:\certification adm\service\Service-Cours-master\bin\Debug\System.Xml.dll
+E:\certification adm\service\Service-Cours-master\bin\Debug\System.Xml.Linq.dll
+E:\certification adm\service\Service-Cours-master\obj\Debug\CoursUpdate.exe
+E:\certification adm\service\Service-Cours-master\obj\Debug\CoursUpdate.pdb
+E:\certification adm\service\Service-Cours-master\bin\Debug\Newtonsoft.Json.dll
+E:\certification adm\service\Service-Cours-master\bin\Debug\Newtonsoft.Json.xml
+E:\certification adm\service\Service-Cours-master\bin\Debug\Cassandra.dll
+E:\certification adm\service\Service-Cours-master\bin\Debug\LZ4.dll
+E:\certification adm\service\Service-Cours-master\bin\Debug\Cassandra.xml
+E:\certification adm\service\Service-Cours-master\obj\Debug\WorkerRole1.csprojResolveAssemblyReference.cache

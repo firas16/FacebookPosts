@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Goldy2Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Cours">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="date" Type="datetime" Nullable="false" />
+    <Property Name="source" Type="int" Nullable="false" />
+    <Property Name="valeur" Type="decimal" Precision="18" Scale="5" Nullable="false" />
+    <Property Name="RowVersion" Type="timestamp" StoreGeneratedPattern="Computed" Nullable="false" />
+    <Property Name="timestamp" Type="datetime" />
+  </EntityType>
+  <EntityType Name="zEnumSources">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nom" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="cutoff" Type="int" />
+    <Property Name="RowVersion" Type="timestamp" StoreGeneratedPattern="Computed" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Cours_zEnumSources">
+    <End Role="zEnumSources" Type="Self.zEnumSources" Multiplicity="1" />
+    <End Role="Cours" Type="Self.Cours" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="zEnumSources">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Cours">
+        <PropertyRef Name="source" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Goldy2ModelStoreContainer">
+    <EntitySet Name="Cours" EntityType="Self.Cours" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="zEnumSources" EntityType="Self.zEnumSources" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Cours_zEnumSources" Association="Self.FK_Cours_zEnumSources">
+      <End Role="zEnumSources" EntitySet="zEnumSources" />
+      <End Role="Cours" EntitySet="Cours" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
